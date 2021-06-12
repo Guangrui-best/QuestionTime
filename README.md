@@ -44,7 +44,7 @@ python manage.py createsuperuser
 
 #### Install Vue.js dependencies
 ```
-cd frontend
+cd ./QuestionTime/frontend
 npm install
 ```
 
