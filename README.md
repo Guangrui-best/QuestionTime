@@ -1,5 +1,5 @@
 # QuestionTime
-A Q&A website similar to MyQuora using django-REST-framework and Vue.js.
+A Q&A website similar to Quora using django-REST-framework and Vue.js.
 
 ## Main Features
 - Registration/Login/Logout
